@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/PLS.lsp",
+      "bytes": 7315,
+      "sha256": "1d5797a276d18965597d99439e41b490a826d3e59645c06219cb44e64bc98414",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "PLS",
+          "line": 202
+        }
+      ]
+    }
+  ]
+}
